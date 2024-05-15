@@ -1,4 +1,4 @@
-```markdown
+
 # Dave the Hedgehog NFT Metadata Guide
 
 Welcome to the Dave the Hedgehog NFT project! This README provides comprehensive guidance on understanding and utilizing the metadata associated with our unique NFT collection, featuring Dave the Hedgehog. Each NFT in this collection represents a unique digital asset verified on the blockchain, embodying a combination of artistic expression and digital technology.
