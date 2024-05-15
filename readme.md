@@ -1,7 +1,7 @@
 
-# Dave the Hedgehog NFT Metadata Guide
+# Trump the Hedgehog NFT Metadata Guide
 
-Welcome to the Dave the Hedgehog NFT project! This README provides comprehensive guidance on understanding and utilizing the metadata associated with our unique NFT collection, featuring Dave the Hedgehog. Each NFT in this collection represents a unique digital asset verified on the blockchain, embodying a combination of artistic expression and digital technology.
+Welcome to the Trump the Hedgehog NFT project! This README provides comprehensive guidance on understanding and utilizing the metadata associated with our unique NFT collection, featuring Trump the Hedgehog. Each NFT in this collection represents a unique digital asset verified on the blockchain, embodying a combination of artistic expression and digital technology.
 
 ## Overview of NFT Metadata
 
@@ -16,12 +16,12 @@ Metadata is crucial for:
 
 ## Sample Metadata JSON
 
-Here's a detailed JSON example showcasing the metadata structure for our character, Dave the Hedgehog:
+Here's a detailed JSON example showcasing the metadata structure for our character, Trump the Hedgehog:
 
 ```json
 {
-  "name": "Dave the Hedgehog",
-  "description": "Meet Dave, the adventurous hedgehog with a wisdom as profound as his love for exploration. Sporting glowing spikes and his signature glasses, he's ready for any digital escapade.",
+  "name": "Trump the Hedgehog",
+  "description": "Meet Trump, the adventurous hedgehog with a wisdom as profound as his love for exploration. Sporting glowing spikes and his signature glasses, he's ready for any digital escapade.",
   "image": "ipfs://bafybeib4e6jdpzat4y2ek3jn57uhethnzvdnxyaem25cupjohxd23shuie",
   "attributes": [
     {"trait_type": "Background", "value": "Sunset"},
@@ -102,9 +102,9 @@ Thank you for exploring alternative filesystems for NFT storage with us!
 
 ## Conclusion
 
-The metadata for each Dave the Hedgehog NFT enriches the asset with detailed, verifiable, and engaging content, ensuring collectors not only own a unique piece of digital art but also appreciate its conceptual and artistic significance. For further inquiries or support, feel free to reach out or check our FAQs.
+The metadata for each Trump the Hedgehog NFT enriches the asset with detailed, verifiable, and engaging content, ensuring collectors not only own a unique piece of digital art but also appreciate its conceptual and artistic significance. For further inquiries or support, feel free to reach out or check our FAQs.
 
-Thank you for being part of our digital adventure with Dave the Hedgehog!
+Thank you for being part of our digital adventure with Trump the Hedgehog!
 ```
 
 This rewritten README.md is tailored for a GitHub audience, focusing on clarity, detailed explanations, and structured formatting to engage users and developers alike in the NFT project.
