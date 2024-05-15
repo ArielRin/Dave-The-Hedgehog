@@ -1,0 +1,31 @@
+{
+  "name": "SonicTrump #404",
+  "description": "",
+  "image": "/404.png",
+  "dna": "a801c0c38584dd97b819bce7cd857db5b305d2a1",
+  "edition": 404,
+  "date": 1712586870170,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "7"
+    },
+    {
+      "trait_type": "head",
+      "value": "8"
+    },
+    {
+      "trait_type": "body",
+      "value": "5"
+    },
+    {
+      "trait_type": "face",
+      "value": "6"
+    },
+    {
+      "trait_type": "accecories",
+      "value": "3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

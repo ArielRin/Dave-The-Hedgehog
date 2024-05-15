@@ -1,0 +1,31 @@
+{
+  "name": "SonicTrump #250",
+  "description": "",
+  "image": "/250.png",
+  "dna": "fe57579b5d28fde5d4497fcc58e955f7ca121ebe",
+  "edition": 250,
+  "date": 1712586814717,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "7"
+    },
+    {
+      "trait_type": "head",
+      "value": "7"
+    },
+    {
+      "trait_type": "body",
+      "value": "5"
+    },
+    {
+      "trait_type": "face",
+      "value": "4"
+    },
+    {
+      "trait_type": "accecories",
+      "value": "3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
