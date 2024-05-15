@@ -1,7 +1,7 @@
 {
   "name": "SonicTrump #725",
   "description": "",
-  "image": "/725.png",
+  "image": "https://raw.githubusercontent.com/ArielRin/Dave-The-Hedgehog/master/build/images/725.png",
   "dna": "adc2a5b23d2cb5cc15e83ba51ad102967e73080e",
   "edition": 725,
   "date": 1712586983617,
